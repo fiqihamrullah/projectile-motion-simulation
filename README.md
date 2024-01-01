@@ -7,7 +7,8 @@ Feel Free to use for learning purpose.
 
  ## **Video Demo**
 
- Here's  [link](https://drive.google.com/file/d/1ja5c9-K-J8VahcKL5bH4FSG1Q_qqVEdj/view?usp=drive_link)  to watch how it works
+https://github.com/fiqihamrullah/projectile-motion-simulation/assets/68839112/5bf147dd-42cc-49b2-8e6e-795c5a8aa66a
+
 
 
 ## Run Locally
